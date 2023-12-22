@@ -11,7 +11,7 @@
 name = "Adbi"
 age = 15
 
-# Detta är en kort berättelse om 
+# Detta är en kort berättelse om
 story = f"""\
 Det här är en berättelse om min vän {name}.
 Han är {age} år gammal och kommer från en by inte långt härifrån.
@@ -26,20 +26,3 @@ Om ett par månader blir Abdi {age + 1} år gammal.
 
 
 print(story)
-
-is_done = False
-
-def do_once(func) -> bool:
-    global is_done
-
-    if not is_done:
-        func()
-        is_done = True
-        return True
-    else:
-        return False
-
-################################################################################
-
-while True:
-    do_once(lambda: print('Moustafa sucks'))
