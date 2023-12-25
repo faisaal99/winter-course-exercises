@@ -1,11 +1,6 @@
-# Winter Course | Exercises | Dataakademin
+# Vinterkurs från Dataakademin | Exercises
 
-## Author(s)
+## Skrivet av
 
 - Faisal A.
-- Mohamed X.
-
-## What is this?
-
-TODO:
-
+- Mohamed Y.
